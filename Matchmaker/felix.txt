@@ -1,0 +1,39 @@
+Question accord/desaccord
+-politique
+-relationel
+-avenir
+-relation interpersonnel
+
+ALGO:
+    note sur 5 dependament de la distance entre les deux réponse
+    le poids de cette note depends de si les utilisateurs prioritise la complementarité ou la similitude
+
+    une question a different attiribut qui permet de mettre un poids a la note dependament de priorité des utilisateurs
+
+
+
+
+
+question choix multiple
+-reaction a une situation
+-choix dactivite
+-attraction principal
+-love language
+-doit avoir les meme attribut que moi
+
+
+ALGO:
+    retourne 0 ou 1 si les utilisateurs ont la même reponse 
+
+
+
+
+question oui/non
+-tue lamour
+-habitude (consommation, diet, sport)
+-partner/electron libre
+
+ALGO:
+    retourne 0 ou 1 si les utilisateurs ont la même reponse 
+
+
